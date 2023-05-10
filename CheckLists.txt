@@ -1,0 +1,17 @@
+Short cheklist:
+"ID"
+"Title"
+"Status"
+```
+```
+Extended checklist:
+"ID"
+"Title"
+"Precondition"
+"Test steps"
+"Expected Result"
+"Аctual Result"
+"Envoirement"
+"Atachment"
+"Bug link"
+"Status"
